@@ -1,5 +1,4 @@
-Here’s how to structure a **well-organized GitHub repository** for your project. The repository should be easy to understand, navigate, and replicate for other users or collaborators.
-
+Here’s how to structure a **well-organized GitHub repository** for your project.
 ---
 
 ### **1. Repository Structure**
